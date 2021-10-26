@@ -1,0 +1,6 @@
+Number		Name	Email			Department	Course	Score
+S10623541 	Adams   Adams541@gmail.com	CSIE            English 74.5
+S10659003 	Andy	Andy9003@gmail.com	CSIE            PE      85.0
+S10659003 	Andy	Andy9003@gmail.com	CSIE            English 77.0
+S10770025 	Cindy   Cindy025@gmail.com      ECE             Chinese 32.0
+S10856032 	Han     Han56032@gmail.com      EE              Math    59.0
